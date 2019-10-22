@@ -1,2 +1,0 @@
-# isaac
-Created with CodeSandbox
